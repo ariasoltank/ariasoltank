@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Aria. I'm a full stack software engineer. 
+
 <!--
 **ariasoltank/ariasoltank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
